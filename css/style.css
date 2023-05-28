@@ -26,5 +26,10 @@ body h3{
 .image-background img{
     max-width: 100%;
     border-radius: 10%;
-    margin: 20px;
+    margin: 3px;
+}
+.image-background p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(250, 2%, 53%);
 }
