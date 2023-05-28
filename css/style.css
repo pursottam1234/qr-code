@@ -15,21 +15,22 @@ body{
     width: 300px;
     display: flex;
     flex-direction: column; 
-    border-radius: 10%;
+    border-radius: 5%;
     background-color: hsl(0, 0%, 100%);
-    padding: 20px;
+    padding: 10px;
 }
 body h3{
-    
+    padding-top: 7px;
     margin: 10px;
 }
 .image-background img{
     max-width: 100%;
-    border-radius: 10%;
+    border-radius: 5%;
     margin: 3px;
 }
 .image-background p{
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
-    color: hsl(250, 2%, 53%);
+    color: hsl(220, 15%, 55%);
+    padding: 5px 10px 15px 10px;
 }
